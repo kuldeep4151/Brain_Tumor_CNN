@@ -51,15 +51,15 @@ Image preprocessing includes:
 
 ## 📂 Project Structure
 **Data folder will be generated using the code**
-Brain_Tumor_CNN/
-│── Brain_tumor_CNN.ipynb # Main Jupyter notebook
-│── data/
-│ ├── yes/ # MRI images with tumor
-│ ├── no/ # MRI images without tumor
-│── models/ # Saved trained models
-│── results/ # Accuracy, loss curves, predictions
-│── README.md
 
+-Brain_Tumor_CNN/
+│── Brain_tumor_CNN.ipynb
+│── data/
+│   ├── yes/
+│   ├── no/
+│── models/
+│── results/
+│── README.md
 
 ## How to Run the Project
 
